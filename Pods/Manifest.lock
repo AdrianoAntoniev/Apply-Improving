@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.4.1)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SDWebImageSwiftUI (2.0.0):
+    - SDWebImage (~> 5.10)
+  - StatusCodes (2.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - SDWebImageSwiftUI
+  - StatusCodes
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SDWebImageSwiftUI
+    - StatusCodes
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SDWebImageSwiftUI: 4ecaa843f6b38d9b9e7875c015e5c92852ddfdbe
+  StatusCodes: d4535c2edcee7533b2b32aeefa7bb58d92f28176
+
+PODFILE CHECKSUM: 27c4b4a9c21c4b696f2d4c86d944d4ff13508bd5
+
+COCOAPODS: 1.10.0
